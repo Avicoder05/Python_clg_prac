@@ -10,3 +10,5 @@ if 1 <= number <= 100:
     print(f"The sum of the digits of {number} is {result}.")
 else:
     print("Please enter a valid integer between 1 and 100.")
+
+print()
