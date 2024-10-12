@@ -11,4 +11,4 @@ if 1 <= number <= 100:
 else:
     print("Please enter a valid integer between 1 and 100.")
 
-print()
+print(sum)
